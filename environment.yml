@@ -1,0 +1,17 @@
+name: trripp
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.9
+  - pytorch
+  - cudatoolkit
+  - transformers
+  - pytorch-lightning
+  - torchmetrics
+  - biopython
+  - scikit-learn
+  - matplotlib
+  - numpy
+  - pandas
