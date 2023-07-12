@@ -1,5 +1,7 @@
 # TrRiPP
 
+TrRiPP is a deep learning model to predict RiPP precursors directly from peptide sequences.
+
 ## How to use
 
 ### Installation
